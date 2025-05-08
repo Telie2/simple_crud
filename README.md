@@ -7,9 +7,11 @@ This is CRUD project for HTML and PHP programming
 - DUSHIME Gentil
 - BYIRINGIRO Justin
 - UWASE Mignone
+- UWINEZA Angelique
 ### Team2: readBranch
 - NGABITSINZE Cedrick
 - NIYONGIRA Peace
+- UWIMPUNDU Ange
 ### Team3: updateBranch
 - MUNYANEZA Josue
 - BYIRINGIRO Didier
