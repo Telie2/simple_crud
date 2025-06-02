@@ -1,5 +1,51 @@
-# simple_crud
-This is CRUD project for HTML and PHP programming
+# Simple CRUD Application
+
+A simple PHP CRUD (Create, Read, Update, Delete) application for managing user records.
+
+## Requirements
+
+- PHP 7.0 or higher
+- MySQL 5.6 or higher
+- Web server (Apache/Nginx)
+
+## Setup Instructions
+
+1. Create a database and table:
+   - Open your MySQL client
+   - Import the `database.sql` file or copy and run its contents
+
+2. Configure the database connection:
+   - Open `config.php`
+   - Update the database credentials if needed:
+     - servername (default: "localhost")
+     - username (default: "root")
+     - password (default: "")
+     - dbname (default: "simple_crud")
+
+3. Place the files in your web server's directory
+
+4. Access the application through your web browser:
+   ```
+   http://localhost/simple_crud/
+   ```
+
+## Features
+
+- View all users
+- Add new user
+- Edit existing user
+- Delete user
+- Responsive design
+- Form validation
+
+## File Structure
+
+- `index.php` - Main page displaying all records
+- `create.php` - Add new user form
+- `edit.php` - Edit existing user form
+- `config.php` - Database configuration
+- `style.css` - Stylesheet
+- `database.sql` - Database setup script
 
 ## *Our Team Members:*
 
