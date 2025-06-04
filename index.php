@@ -25,8 +25,9 @@ $result = $conn->query($sql);
 </head>
 <body>
     <div class="container">
-        <h2>User Management System</h2>
+        <h2>dashboard</h2>
         <a href="create.php" class="btn-add">Add New User</a>
+          <a href="dashboard.php" class="btn-add">dashboard</a>
         <table>
             <thead>
                 <tr>
